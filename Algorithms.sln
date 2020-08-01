@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3NP1Problem", "3NP1Problem\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FibbonaciSequence", "FibbonaciSequence\FibbonaciSequence.csproj", "{0B6F14AD-A3C3-4EB3-AD49-ABA9C7C24D09}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TripProblem", "TripProblem\TripProblem.csproj", "{1994FD42-44F8-444A-841E-A1D9FBB17BBC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{0B6F14AD-A3C3-4EB3-AD49-ABA9C7C24D09}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0B6F14AD-A3C3-4EB3-AD49-ABA9C7C24D09}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0B6F14AD-A3C3-4EB3-AD49-ABA9C7C24D09}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1994FD42-44F8-444A-841E-A1D9FBB17BBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1994FD42-44F8-444A-841E-A1D9FBB17BBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1994FD42-44F8-444A-841E-A1D9FBB17BBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1994FD42-44F8-444A-841E-A1D9FBB17BBC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
