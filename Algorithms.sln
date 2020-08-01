@@ -9,7 +9,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InsertionSort", "InsertionS
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tour Optymization", "Tour Optymization\Tour Optymization.csproj", "{A0D5858B-A6B4-4329-96BD-5701EAF59B2C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SelectingRightJobs", "SelectingRightJobs\SelectingRightJobs.csproj", "{BA25CD39-012B-442E-A2C4-51E1567887DC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SelectingRightJobs", "SelectingRightJobs\SelectingRightJobs.csproj", "{BA25CD39-012B-442E-A2C4-51E1567887DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DivisionNoOperants", "DivisionNoOperants\DivisionNoOperants.csproj", "{5129C318-FD02-4044-8C06-4D635475EC64}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3NP1Problem", "3NP1Problem\3NP1Problem.csproj", "{589A50A5-F22C-414F-AD4B-1A91DEE43C06}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FibbonaciSequence", "FibbonaciSequence\FibbonaciSequence.csproj", "{0B6F14AD-A3C3-4EB3-AD49-ABA9C7C24D09}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +39,18 @@ Global
 		{BA25CD39-012B-442E-A2C4-51E1567887DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BA25CD39-012B-442E-A2C4-51E1567887DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BA25CD39-012B-442E-A2C4-51E1567887DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5129C318-FD02-4044-8C06-4D635475EC64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5129C318-FD02-4044-8C06-4D635475EC64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5129C318-FD02-4044-8C06-4D635475EC64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5129C318-FD02-4044-8C06-4D635475EC64}.Release|Any CPU.Build.0 = Release|Any CPU
+		{589A50A5-F22C-414F-AD4B-1A91DEE43C06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{589A50A5-F22C-414F-AD4B-1A91DEE43C06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{589A50A5-F22C-414F-AD4B-1A91DEE43C06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{589A50A5-F22C-414F-AD4B-1A91DEE43C06}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B6F14AD-A3C3-4EB3-AD49-ABA9C7C24D09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B6F14AD-A3C3-4EB3-AD49-ABA9C7C24D09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B6F14AD-A3C3-4EB3-AD49-ABA9C7C24D09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B6F14AD-A3C3-4EB3-AD49-ABA9C7C24D09}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
