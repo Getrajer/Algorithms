@@ -11,21 +11,23 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tour Optymization", "Tour O
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SelectingRightJobs", "SelectingRightJobs\SelectingRightJobs.csproj", "{BA25CD39-012B-442E-A2C4-51E1567887DC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DivisionNoOperants", "DivisionNoOperants\DivisionNoOperants.csproj", "{5129C318-FD02-4044-8C06-4D635475EC64}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DivisionNoOperants", "DivisionNoOperants\DivisionNoOperants.csproj", "{5129C318-FD02-4044-8C06-4D635475EC64}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3NP1Problem", "3NP1Problem\3NP1Problem.csproj", "{589A50A5-F22C-414F-AD4B-1A91DEE43C06}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3NP1Problem", "3NP1Problem\3NP1Problem.csproj", "{589A50A5-F22C-414F-AD4B-1A91DEE43C06}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FibbonaciSequence", "FibbonaciSequence\FibbonaciSequence.csproj", "{0B6F14AD-A3C3-4EB3-AD49-ABA9C7C24D09}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FibbonaciSequence", "FibbonaciSequence\FibbonaciSequence.csproj", "{0B6F14AD-A3C3-4EB3-AD49-ABA9C7C24D09}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TripProblem", "TripProblem\TripProblem.csproj", "{1994FD42-44F8-444A-841E-A1D9FBB17BBC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TripProblem", "TripProblem\TripProblem.csproj", "{1994FD42-44F8-444A-841E-A1D9FBB17BBC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Australian Voting", "Australian Voting\Australian Voting.csproj", "{25F50DAF-8598-4412-AEC9-D8161CC3788B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Australian Voting", "Australian Voting\Australian Voting.csproj", "{25F50DAF-8598-4412-AEC9-D8161CC3788B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SelectionSort", "SelectionSort\SelectionSort.csproj", "{AFF70F5B-877C-46DD-8CEF-0E75EA55F64F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SelectionSort", "SelectionSort\SelectionSort.csproj", "{AFF70F5B-877C-46DD-8CEF-0E75EA55F64F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringPatternMatching", "StringPatternMatching\StringPatternMatching.csproj", "{FAC3EA4B-D975-45B8-BF57-5D6DD2AF101B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StringPatternMatching", "StringPatternMatching\StringPatternMatching.csproj", "{FAC3EA4B-D975-45B8-BF57-5D6DD2AF101B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiplyMatrices", "MultiplyMatrices\MultiplyMatrices.csproj", "{127F48B0-3CE9-4E43-9827-7425D5B078DD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MultiplyMatrices", "MultiplyMatrices\MultiplyMatrices.csproj", "{127F48B0-3CE9-4E43-9827-7425D5B078DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reservoir Sampling", "Reservoir Sampling\Reservoir Sampling.csproj", "{0F2F5107-B8E6-441F-999E-13340D2AE60E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -81,6 +83,10 @@ Global
 		{127F48B0-3CE9-4E43-9827-7425D5B078DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{127F48B0-3CE9-4E43-9827-7425D5B078DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{127F48B0-3CE9-4E43-9827-7425D5B078DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F2F5107-B8E6-441F-999E-13340D2AE60E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F2F5107-B8E6-441F-999E-13340D2AE60E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F2F5107-B8E6-441F-999E-13340D2AE60E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F2F5107-B8E6-441F-999E-13340D2AE60E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
