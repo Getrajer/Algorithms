@@ -9,9 +9,10 @@ namespace DecimalToBinary
         public void Convert(double number)
         {
             List<int> binary = new List<int>();
-            bool if_even
             double pow_two = 1;
             double two = 2;
+
+            bool ifOdd = (number % 2) == 1;
 
             for(int i = 0; i < 1;)
             {
@@ -59,6 +60,7 @@ namespace DecimalToBinary
 
                             if (pow_two == 0)
                             {
+                                if (ifOdd) binary.Add(1); else binary.Add(0);
                                 j++;
                             }
                         }
@@ -69,7 +71,7 @@ namespace DecimalToBinary
 
                             if (pow_two == 0)
                             {
-                                if(number%)
+                                if (ifOdd) binary.Add(1); else binary.Add(0);
                                 j++;
                             }
                         }
