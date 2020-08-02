@@ -27,7 +27,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StringPatternMatching", "St
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MultiplyMatrices", "MultiplyMatrices\MultiplyMatrices.csproj", "{127F48B0-3CE9-4E43-9827-7425D5B078DD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reservoir Sampling", "Reservoir Sampling\Reservoir Sampling.csproj", "{0F2F5107-B8E6-441F-999E-13340D2AE60E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Reservoir Sampling", "Reservoir Sampling\Reservoir Sampling.csproj", "{0F2F5107-B8E6-441F-999E-13340D2AE60E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10035 _Primary Arithmetic", "10035 _Primary Arithmetic\10035 _Primary Arithmetic.csproj", "{701335F6-9E90-44ED-9BB1-272A5C865216}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -87,6 +89,10 @@ Global
 		{0F2F5107-B8E6-441F-999E-13340D2AE60E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0F2F5107-B8E6-441F-999E-13340D2AE60E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0F2F5107-B8E6-441F-999E-13340D2AE60E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{701335F6-9E90-44ED-9BB1-272A5C865216}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{701335F6-9E90-44ED-9BB1-272A5C865216}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{701335F6-9E90-44ED-9BB1-272A5C865216}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{701335F6-9E90-44ED-9BB1-272A5C865216}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
