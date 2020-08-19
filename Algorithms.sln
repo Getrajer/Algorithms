@@ -33,11 +33,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "10035 _Primary Arithmetic",
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MultiplicationGameUva", "MultiplicationGameUva\MultiplicationGameUva.csproj", "{8F0C97F8-254C-4454-A2D6-8D412DEDC475}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseWordsInSentence", "ReverseWordsInSentence\ReverseWordsInSentence.csproj", "{C410893B-286B-4E27-90A0-55C72450E204}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReverseWordsInSentence", "ReverseWordsInSentence\ReverseWordsInSentence.csproj", "{C410893B-286B-4E27-90A0-55C72450E204}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Palindrome", "Palindrome\Palindrome.csproj", "{ED320B39-B2D5-4F22-BD05-8BCDBC0F5AF3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Palindrome", "Palindrome\Palindrome.csproj", "{ED320B39-B2D5-4F22-BD05-8BCDBC0F5AF3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DecimalToBinary", "DecimalToBinary\DecimalToBinary.csproj", "{A925114D-3E66-4049-BA0A-2EE0E8F90C3B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DecimalToBinary", "DecimalToBinary\DecimalToBinary.csproj", "{A925114D-3E66-4049-BA0A-2EE0E8F90C3B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WatermelonProblem", "WatermelonProblem\WatermelonProblem.csproj", "{FC5486ED-F796-460D-973C-AC1E0412908B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BracketChecker", "BracketChecker\BracketChecker.csproj", "{78B82640-1587-46B0-B2CF-0B73C905E5EE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -117,6 +121,14 @@ Global
 		{A925114D-3E66-4049-BA0A-2EE0E8F90C3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A925114D-3E66-4049-BA0A-2EE0E8F90C3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A925114D-3E66-4049-BA0A-2EE0E8F90C3B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC5486ED-F796-460D-973C-AC1E0412908B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC5486ED-F796-460D-973C-AC1E0412908B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC5486ED-F796-460D-973C-AC1E0412908B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC5486ED-F796-460D-973C-AC1E0412908B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78B82640-1587-46B0-B2CF-0B73C905E5EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78B82640-1587-46B0-B2CF-0B73C905E5EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78B82640-1587-46B0-B2CF-0B73C905E5EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78B82640-1587-46B0-B2CF-0B73C905E5EE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
